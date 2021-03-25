@@ -1,0 +1,3 @@
+@echo off
+echo Starting your virtual environment...
+venv\Scripts\activate.bat

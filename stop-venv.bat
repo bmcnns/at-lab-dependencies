@@ -1,0 +1,3 @@
+@echo off
+echo Exiting your virtual environment...
+venv\Scripts\deactivate.bat
